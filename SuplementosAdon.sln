@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuplementosAdon.API", "SuplementosAdon.API\SuplementosAdon.API.csproj", "{133E04F5-2B83-4C41-B381-EE11C2F5BEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuplementosAdon.Desktop", "SuplementosAdon.Desktop\SuplementosAdon.Desktop.csproj", "{1EB1E563-8442-424E-B4A1-65DC07C3B1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133E04F5-2B83-4C41-B381-EE11C2F5BEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133E04F5-2B83-4C41-B381-EE11C2F5BEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133E04F5-2B83-4C41-B381-EE11C2F5BEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133E04F5-2B83-4C41-B381-EE11C2F5BEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB1E563-8442-424E-B4A1-65DC07C3B1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB1E563-8442-424E-B4A1-65DC07C3B1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB1E563-8442-424E-B4A1-65DC07C3B1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB1E563-8442-424E-B4A1-65DC07C3B1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DA22BE-4B9E-4508-BA78-1E29F5ED4128}
+	EndGlobalSection
+EndGlobal
